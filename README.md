@@ -1,4 +1,9 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" width="100%" alt="banner"/>
+</p>
+
+<h2 align="center">Hey, I'm Roman Garanzuay</h2>
+<p align="center">Cybersecurity 🔐 | Cloud Security ☁️ | DevSecOps 🛡️</p>
 
 <!--
 **romanmgaranzuay/romanmgaranzuay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
