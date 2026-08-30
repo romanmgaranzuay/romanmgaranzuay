@@ -18,7 +18,7 @@ I build and automate secure cloud architectures and systems. I focus heavily on 
 
 * 🎵 Music producer and songwriter (Hip-Hop & R&B)
 * 🤝 Active at local tech meetups and community events
-* 🥤 Consistently fueled by protein shakes
+* 🥤 Consistently fueled by cheap protein shakes and oatmeal-mixed creatine.
 <!--
 **romanmgaranzuay/romanmgaranzuay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
