@@ -1,8 +1,6 @@
 <h2 align="center">Hey, I'm Roman Garanzuay 👋</h2>
 <p align="center">Cybersecurity 🔐 | Cloud Security ☁️ | DevSecOps 🛡️</p>
 
----
-
 I build and automate secure cloud architectures and systems. I focus heavily on **AWS environments** and the **shift-left security paradigm**—integrating automated compliance, vulnerability scanning, and infrastructure hardening directly into CI/CD pipelines to catch risks before code ever hits production.
 
 ---
